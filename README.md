@@ -223,21 +223,5 @@ This assessment was conducted against a local test environment for educational p
 
 The findings and recommendations in this project are intended for defensive security learning and improving the security of authorised environments.
 
-## 14. Project Evidence
 
-Screenshots and the assessment report can be added to the repository to demonstrate the work performed.
-
-Suggested repository structure:
-
-```text
-wordpress-security-assessment-wpscan/
-├── README.md
-├── reports/
-│   └── wordpress-security-audit.pdf
-└── screenshots/
-    ├── wpscan-initial-scan.png
-    └── wpscan-user-enumeration.png
-```
-
-The screenshot filenames above are examples. Use your actual uploaded filenames when adding evidence to this README.
 
